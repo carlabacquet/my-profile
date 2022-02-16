@@ -1,0 +1,83 @@
+body {
+background-color: rgb(230, 230, 230);
+color: #7ECE90;
+font-family: 'lora';
+font-size: 17px;
+font-weight: lighter;
+
+ }
+
+ h1,h2,h3 {
+ 	font-family: 'Roboto', sans-serif;
+ 	}
+
+
+ h1 {
+ 	color: #b76f81;
+ 	font-family: Helvetica;
+ 	font-weight: 800;
+ 	letter-spacing: 17px;
+ 	text-transform: uppercase;	
+ }
+
+ h2 {
+ 	color: #939eba;
+ 	font-family: Courier ;
+ 	font-size: 24px;
+ 	font-weight: lighter;
+ 	}
+
+ a {
+    font-family: 'Roboto', sans-serif;
+ 	text-decoration: none;
+ 	color: #eb686a ;
+ 	font-weight: b76f81;
+ }
+
+ a:hover {
+ 	color: black;
+}
+
+/* Custom design with classe */ 
+.card-white {
+    width:700px;
+    margin: 40px auto;
+}
+
+/* Custom design with classe */ 
+.container {
+    width:700px;
+    margin: 40px auto;
+}
+
+.container {
+    background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0,0.1);
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.card-white {
+    background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0,0.1);
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.img-circle {
+    width: 5Opx;
+    border-radius: 50%
+}
+
+
+
+
+
+
+
+
+
